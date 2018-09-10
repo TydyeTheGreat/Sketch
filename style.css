@@ -1,0 +1,18 @@
+body {
+    background-color:#000;
+    text-align:center;
+}
+
+h1 {
+    font-weight: bold;
+    font-family:Age;
+    color:grey;
+    font-size:60px;
+}
+
+@font-face {
+    font-family: 'Age';
+    src: url('resources/Age.otf') format('opentype');
+    font-weight:100;
+    font-style:normal;
+}
